@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bruce Phillips"
 title_separator          : "-"
-name                     : &name "Bruce Phillips"
+name                     : &name "Home"
 description              : &description "personal description"
 url                      : https://brucep317.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bruce Phillips"
   avatar           : "profile.png"
   bio              : "I am Bruce"
   location         : "Binghamton, NY"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "brucep317@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/bruce-phillips-52046624a/"
   orcid            : 
   pinterest        :
   soundcloud       :
