@@ -23,22 +23,33 @@ Coursework: Multivariable Calculus, Linear Algebra, Dynamical Systems, Graph The
 
 Work experience
 ======
-Binghamton University - Adjunct Lecturer         			Vestal, NY
-MATH Z137-Statistics for Healthcare				August 2022-Present
-Set up course materials and learning tools
-Grade assignments and exams
-Answer questions from students and provide feedback on learning progress
+Binghamton University - Adjunct Lecturer - August 2022-Present	
 
-Binghamton University - Graduate Grader          			Vestal, NY
-MATH 457-Intro to Statistical Learning				August 2022-Present
+-MATH Z137-Statistics for Healthcare			
+
+-Set up course materials and learning tools
+
+-Grade assignments and exams
+
+-Answer questions from students and provide feedback on learning progress
+
+
+Binghamton University - Graduate Grader - August 2022-Present
+
+MATH 457-Intro to Statistical Learning				
+
 Grade student assignments and exams and provide feedback	
+
 
   
 Skills
 ======
 R including tidyverse, glmnet, markdown, caret, shiny
+
 Python
+
 Latex
+
 Microsoft Office
 
 
