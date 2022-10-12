@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+I am a graduate student at Binghamton University currently pursuing a Master's degree in statistics.
